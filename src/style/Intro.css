@@ -1,0 +1,45 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+
+    text-align: center;
+
+    width: 100%;
+    height: 100vh;
+    background: url("../images/fon.png") no-repeat center;
+    background-size: cover;
+}
+
+.intro__inner {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.intro__suptitle {
+    font-size: 100px;
+    color: #CCFAF7;
+    font-weight: 500;
+}
+
+.container__intro {
+    max-width: 550px;
+    margin-top: 80px;
+}
+
+.intro__title {
+    color: #98F0FC;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.intro__title:after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+
+    background-color: #CCFAF7;
+
+    margin: 30px auto 45px;
+}

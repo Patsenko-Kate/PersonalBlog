@@ -1,0 +1,11 @@
+.section {
+    padding: 80px 0;
+}
+
+.section--grey {
+    background-color: #f8f8f8;
+}
+
+.section--fon {
+    background-color: rgba(88, 184, 255, 0.23);
+}

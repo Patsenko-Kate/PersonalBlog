@@ -1,0 +1,36 @@
+.section__header {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto 40px;
+
+    text-align: center;
+}
+
+.section__suptitle {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 24px;
+    color: slategrey;
+}
+
+.section__title {
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+}
+
+.section__title:after {
+    content: "";
+    display: block;
+    width: 180px;
+    height: 3px;
+
+    margin: 40px auto;
+
+    background-color: #4883E8;
+}
+
+.section__text {
+    color: slategrey;
+    font-size: 22px;
+}

@@ -1,0 +1,11 @@
+.logo {
+    float:right;
+    top: 0;
+}
+
+.logo__stik {
+    width: 200px;
+    height: 220px;
+    margin-top: -90px;
+    margin-right: -100px;
+}
