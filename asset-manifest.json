@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PersonalBlog/static/css/main.b9b97f88.css",
+    "main.js": "/PersonalBlog/static/js/main.6e89ae83.js",
+    "static/media/fon.png": "/PersonalBlog/static/media/fon.7674b820919d80abbb89.png",
+    "static/media/me.png": "/PersonalBlog/static/media/me.3664798025715ad7b70e.png",
+    "static/media/stik_1.png": "/PersonalBlog/static/media/stik_1.16c369e99414531cbc0d.png",
+    "static/media/stik_2.png": "/PersonalBlog/static/media/stik_2.e32047a2a159ed611022.png",
+    "static/media/stik_3.png": "/PersonalBlog/static/media/stik_3.502a23f3cbae70ceee73.png",
+    "static/media/2.jpg": "/PersonalBlog/static/media/2.64311d612559eeec5676.jpg",
+    "static/media/3.jpg": "/PersonalBlog/static/media/3.66b912637779484a4af5.jpg",
+    "static/media/1.jpg": "/PersonalBlog/static/media/1.6e58987a3bc8a6603b70.jpg",
+    "index.html": "/PersonalBlog/index.html",
+    "main.b9b97f88.css.map": "/PersonalBlog/static/css/main.b9b97f88.css.map",
+    "main.6e89ae83.js.map": "/PersonalBlog/static/js/main.6e89ae83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9b97f88.css",
+    "static/js/main.6e89ae83.js"
+  ]
+}
